@@ -72,7 +72,7 @@
 <p align="left">
 <a href="https://github.com/Shenstudio-max /ShenFish"><img title="ShenFish" src="https://github-readme-stats.vercel.app/api/pin/?username=Shenstudio-max&repo=ShenFish&theme=dark"></a>
 </br>
-<a href="https://github.com/john-kener/Evil-spammer"><img title="Evil-spammer" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Evil-spammer&theme=dark"></a>
+<a href="https://github.com/Shenstudio-max/ShenBanner"><img title="ShenBanner" src="https://github-readme-stats.vercel.app/api/pin/?username=Shenstudio-max&repo=ShenBanner&theme=dark"></a>
 </br>
 <a href="https://github.com/john-kener/Termux-Banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Termux-Banner&theme=dark"></a>
 </br>
