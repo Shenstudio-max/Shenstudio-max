@@ -1,8 +1,9 @@
 
-### HELLO...!!! THIS IS MY GITHUB PAGE!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### HELLO...!!! WELCOME TO MY GITHUB PAGE!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ---
-<img src="https://github.com/John-kener/John-kener/blob/main/images%20(8)-1.jpg" width="300%">
+<img src="
+https://github.com/Shenstudio-max/Shenstudio-max/blob/main/IMG-20201004-WA0069.jpg" width="300%">
 <p align="center">
 <div align="center">
 
@@ -14,11 +15,11 @@
 </br>
   
   <samp>
-    I'm John Kener
+    I'm ASANGA LIYANAGA 
     <br>
     Currently studying coding and oparating groups ...!😁🎓 !
     <br>
-    OWNER OF THE CYBER WARRIORS COMMUNITY
+    OWNER OF THE SHEN STUDIO 
     <br>
     ●➤☠ I DON'T CARE MY ENEMIES EVEN FOR A CENT😂
   </samp>
