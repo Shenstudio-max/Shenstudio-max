@@ -37,7 +37,7 @@
 <br/>
 
 <p align="left">
-<a href="https://github.com/john-kener"><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Shenstudio-max "><img title="Github" src="https://img.shields.io/badge/Github-John--kener-blue?style=for-the-badge&logo=github"></a>
 </p>
 
 <p align="left">
