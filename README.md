@@ -64,8 +64,8 @@
 <a href="https://github.com/john-kener"><img title="John-kener" src="https://github-readme-stats.vercel.app/api?username=Shenstudio-max&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 
 </p>https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3
-<a href="https://github.com/John-kener 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
+<a href="https://github.com/Shenstudio-max 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shenstudio-max&hide=php&theme=algolia" />
 </a>
 </br>
 </br>
