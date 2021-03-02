@@ -60,8 +60,8 @@
 
 *NOTE: Top languages does not indicate my skill level or something like that...*
 
-<a href="https://github.com/Shenstudio-max "><img title="Shenstudio-max" src="https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
-</p>
+<a href="https://github.com/Shenstudio-max "><img title="Shenstudio-max" src="https://github-readme-stats.vercel.app/api?username=Shenstudio-max&show_icons=true&include_all_commits=true&theme=chartreuse-darkconds=3200"></a>
+</p>https://github-readme-stats.vercel.app/api?username=john-kener&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3
 <a href="https://github.com/John-kener 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=john-kener&hide=php&theme=algolia" />
 </a>
