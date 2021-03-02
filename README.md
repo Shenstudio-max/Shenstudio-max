@@ -42,8 +42,8 @@
 
 <p align="left">
 <a href="https://www.facebook.com/profile.php?id=%2F231497844988848%2F%3Fref%3Dshare"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
-<a href="https://t.me/John_kener"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
-<a href="https://bit.ly/3pHwbVM"><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://t.me"><img title="Telegram " src="https://img.shields.io/badge/Telegram-red?style=for-the-badge&logo=telegram"></a>
+<a href="https://chat.whatsapp.com/Lum5vBBRtAl9fskJ2FnCbX "><img title="Whatsapp" src="https://img.shields.io/badge/WHATSAPP -red?style=for-the-badge&logo=whatsapp"></a>
 </br>
 </br>
 
