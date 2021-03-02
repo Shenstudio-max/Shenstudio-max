@@ -2,8 +2,7 @@
 ### HELLO...!!! WELCOME TO MY GITHUB PAGE!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ---
-<img src="
-https://github.com/Shenstudio-max/Shenstudio-max/blob/main/IMG-20201004-WA0069.jpg" width="300%">
+<img src="https://github.com/Shenstudio-max/Shenstudio-max/blob/main/IMG-20201004-WA0069.jpg" width="300%">
 <p align="center">
 <div align="center">
 
