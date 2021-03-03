@@ -74,13 +74,7 @@
 </br>
 <a href="https://github.com/Shenstudio-max/ShenBanner"><img title="ShenBanner" src="https://github-readme-stats.vercel.app/api/pin/?username=Shenstudio-max&repo=ShenBanner&theme=dark"></a>
 </br>
-<a href="https://github.com/john-kener/Termux-Banner"><img title="Termux-Banner" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=Termux-Banner&theme=dark"></a>
-</br>
-<a href="https://github.com/john-kener/infect"><img title="infect" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=infect&theme=dark"></a>
-</br>
-<a href="https://github.com/john-kener/shl_v1"><img title="WHATSAPP BOT" src="https://github-readme-stats.vercel.app/api/pin/?username=john-kener&repo=shl_v1&theme=dark"></a>
-</p>
-</br>
+
 
 <div align="center">
 <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
